@@ -1,1 +1,2 @@
 Esta es mi primera entrega de laboratorio Git
+Agrengando mas texto a archivo
